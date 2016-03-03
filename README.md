@@ -1,2 +1,2 @@
-# tbeermann.github.io
-Beermann Web site
+# timbeermann
+Tim Beermann Site
